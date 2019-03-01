@@ -6,12 +6,6 @@ hello world ,this is second time for changes.
 
 hello , girl ,this is third time for changes.
 
-<<<<<<< HEAD
-hello ,noe is a new branch.
-
-Greating a new branch is quick and simple.
-=======
-hello ,noe is a new branch
-
 11 , hello , this is the testing for feature .
->>>>>>> feature
+
+hello ,girl ,now is on dev branch.
