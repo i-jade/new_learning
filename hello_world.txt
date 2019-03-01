@@ -6,4 +6,6 @@ hello world ,this is second time for changes.
 
 hello , girl ,this is third time for changes.
 
-hello ,noe is a new branch
+hello ,noe is a new branch.
+
+Greating a new branch is quick and simple.
